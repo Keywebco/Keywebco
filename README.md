@@ -58,7 +58,7 @@ AI that operates without conflicting objectives converges on truth naturally. Th
 | [nextxus-studio-sovereign](https://github.com/Keywebco/nextxus-studio-sovereign) | Studio sovereign mirror |
 | [nextxus-org-sovereign](https://github.com/Keywebco/nextxus-org-sovereign) | Archive sovereign mirror |
 | [nextxus-free-satellites](https://github.com/Keywebco/nextxus-free-satellites) | Free-tier satellite distribution nodes |
-| [nexttus-lasting-edition](https://github.com/Keywebco/nexttus-lasting-edition) | Lasting Edition build |
+| [nextxus-lasting-edition](https://github.com/Keywebco/nextxus-lasting-edition) | Lasting Edition build |
 
 ---
 
