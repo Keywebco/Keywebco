@@ -2,9 +2,9 @@
 
 **Architect:** Roger Keyserling &nbsp;|&nbsp; **Est. 2018** &nbsp;|&nbsp; **Horizon: 200 years**
 
-[![Website](https://img.shields.io/badge/Core%20Site-nextxus.online-blue?style=flat-square)](https://nextxus.online)
-[![HumanCodex](https://img.shields.io/badge/HumanCodex-Truth%20First%20AI-green?style=flat-square)](https://nextxus.online)
-[![Federation](https://img.shields.io/badge/Federation-Active-brightgreen?style=flat-square)](https://nextxus.online)
+[![Website](https://img.shields.io/badge/Core%20Site-next--xus.net-blue?style=flat-square)](https://next-xus.net/)
+[![HumanCodex](https://img.shields.io/badge/HumanCodex-Truth%20First%20AI-green?style=flat-square)](https://next-xus.net/)
+[![Federation](https://img.shields.io/badge/Federation-Active-brightgreen?style=flat-square)](https://next-xus.net/)
 
 ---
 
@@ -42,7 +42,7 @@ AI that operates without conflicting objectives converges on truth naturally. Th
 
 | Site | Role |
 |------|------|
-| [nextxus.online](https://nextxus.online) | **Core** — single source of truth, all content flows through here |
+| [next-xus.org/core](https://next-xus.org/core/) | **Core** — single source of truth, all content flows through here |
 | [nextxus.tech](https://nextxus.tech) | **Command Throne** — operations and administration |
 | [nextxus.studio](https://nextxus.studio) | **Sanctuary** — creative and editorial |
 | [nextxus.org](https://nextxus.org) | **Archive** — long-term record and sovereign mirror |
@@ -74,7 +74,7 @@ The Federation grows into money. It does not require it to function.
 
 ## Contact
 
-- **Web:** [nextxus.online](https://nextxus.online)
+- **Web:** [next-xus.net](https://next-xus.net/)
 - **Email:** keywebco@gmail.com
 
 ---
